@@ -7,4 +7,5 @@ resultOne = firstNumber * 3
 resultTwo = secondNumber * 3
 
 #Saída dos dados
-print(f"O triplo de {firstNumber} e {secondNumber} são {resultOne} e {resultTwo} respectivamente")
+print(f"O triplo de {firstNumber} e {secondNumber} são:") 
+print(f"{resultOne} e {resultTwo} respectivamente")

@@ -14,5 +14,6 @@ func main() {
 
 
 	//Saída dos dados
-    fmt.Printf("O triplo de %d e %d são %d e %d respectivamente\n", firstNumber, secondNumber, resultOne, resultTwo)
+    fmt.Printf("O triplo de %d e %d são %d e %d respectivamente\n", 
+	firstNumber, secondNumber, resultOne, resultTwo)
 }
